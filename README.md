@@ -43,11 +43,15 @@ Este proyecto tiene como propósito identificar y clasificar las áreas con mayo
 ## 🧩 Estructura del Repositorio
 
 ```
-📁 /notebooks
-    └── data_preparation.ipynb        # Flujo principal de preparación y análisis de datos
-📁 /results                           # Datos de entrada y salida (raster, shapefiles, CSV)
-📁 /src                               # Scripts auxiliares (opcional)
-📄 README.md                          # Documentación general
+📁 /notebooks				# Flujo principal y análisis de datos (contiene cuaderno compilado y divido por tratamiento de datos)
+    	└── data_preparation.ipynb      
+📁 /results				# Salidas gráficas
+	└── maps
+	└── charts           		
+📁 /src                             	# Scripts auxiliares
+📁 /docs 				# Referencias
+📁 /datebase				# Archivos en formato .shp, .gbd, .csv, .xlsx como insumo para los cuadernos
+📄 README.md                         	# Documentación general
 ```
 
 ---
@@ -68,18 +72,6 @@ earthengine authenticate
 
 ---
 
-## ▶️ Ejecución
-
-1. Clona este repositorio:
-```bash
-git clone https://github.com/usuario/repositorio.git
-```
-
-2. Abre el archivo `notebooks/data_preparation.ipynb` en JupyterLab.
-
-3. Ejecuta cada celda secuencialmente. Asegúrate de tener acceso a Earth Engine y todos los archivos en la carpeta `/data`.
-
----
 
 ## 🗺️ Resultados
 

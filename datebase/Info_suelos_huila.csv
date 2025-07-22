@@ -1,0 +1,52 @@
+UCS;Profundidad;Drenaje;Textura
+MEA;Superficial;Bueno;A
+MHA;Moderadamente profundo;Bueno;FA
+MHB;Profundo;Bueno;FAr
+MHC;Profundo;Bueno;FA
+MKA;Moderadamente profundo;Bueno;FA
+MKB;Profundo;Bueno;A
+MKC;Profundo;Bueno;FA
+MKD;Profundo;Bueno;FAr
+MKE;Muy superficial;Bueno;F
+MKF;Profundo;Bueno;F
+MLA;Superficial;Bueno;FAr
+MLB;Superficial;Bueno;FAr
+MLC;Superficial;Bueno;Ar
+MLD;Profundo;Bueno;Ar
+MQA;Profundo;Bueno;FArL
+MQB;Profundo;Bueno;FArL
+MQC;Muy superficial;Bueno;ArA
+MQD;Moderadamente profundo;Bueno;FL
+MQE;Profundo;Bueno;FL
+MQF;Superficial;Bueno;F
+MQG;Muy superficial;Excesivo;FA
+MQH;Moderadamente profundo;Imperfecto;FA
+MQI;Moderadamente profundo;Bueno;F
+MRA;Superficial;Bueno;FAr
+MRB;Superficial;Bueno;FAr
+MRC;Moderadamente profundo;Moderado;FL
+MVA;Superficial;Bueno;FAr
+LQA;Superficial;Bueno;FAr
+LQB;Profundo;Bueno;FA
+LQC;Profundo;Bueno;FAr
+LVA;Muy superficial;Bueno;FA
+LVB;Superficial;Bueno;FArL
+LVC;Superficial;Muy pobre;Ar
+LVD;Moderadamente profundo;Bueno;FArL
+LWA;Superficial;Bueno;A
+LWB;Superficial;Bueno;FA
+LWC;Muy superficial;Moderado;FAr
+LWD;Profundo;Bueno;FAr
+LYA;Muy superficial;Bueno;FA
+PWA;Moderadamente profundo;Excesivo;A
+PWB;Moderadamente profundo;Imperfecto;FA
+PWC;Muy superficial;Bueno;FA
+PWD;Muy superficial;Pobre;ArA
+VQA;Muy superficial;Muy pobre;FAr
+VVA;Moderadamente profundo;Bueno;FAr
+VVB;Muy superficial;Muy pobre;FArL
+VWA;Moderadamente profundo;Imperfecto;FA
+VWB;Superficial;Bueno;FAr
+VWC;Superficial;Pobre;A
+VXA;Moderadamente profundo;Imperfecto;A
+VYA;Moderadamente profundo;Imperfecto;FAr
